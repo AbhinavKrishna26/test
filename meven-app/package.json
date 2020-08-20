@@ -13,7 +13,7 @@
   "author": "ABHINAV KRISHNA",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "4.0.1",
+    "bcrypt": "5.0.0",
     "body-parser": "1.19.0",
     "concurrently": "5.1.0",
     "cors": "2.8.5",
